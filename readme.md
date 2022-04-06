@@ -1,4 +1,4 @@
-# Materials for "ConcSpectre: Be Aware of Forthcoming Malware Hidden in Concurrent Programs" (QRS 2021)
+# CLB
 
 + 0-Example of BullMoose
 
