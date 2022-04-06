@@ -1,4 +1,4 @@
-# CLB
+# Materials for "ConcSpectre: Be Aware of Forthcoming Malware Hidden in Concurrent Programs"
 
 + 0-Example of BullMoose
 
